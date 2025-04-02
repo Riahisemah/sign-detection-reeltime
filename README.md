@@ -60,10 +60,8 @@
 
 | Name            | Email-id                      |
 | :-------------- | :---------------------------- |
-| Shubham More    | `shubhamp1251@gmail.com`      |
-| Sameer Metkar   | `sameermetkar@gmail.com`      |
-| Omkar Mandavkar | `omkarmandavkar000@gmail.com` |
-| Durgesh Kolhe   | `dkolhe985@gmail.com`         |
+| Riahi samh    | `riahisamh817@gmail.com`      |
+
 
 ## Project Details
 
@@ -85,10 +83,8 @@
 
 ## Authors
 
-- [@shubham-more](https://github.com/shubhammore1251/)
-- [@sameer-metkar](https://github.com/sameermetkar/)
-- [@omkar-mandavkar](https://github.com/omkarmandavkar/)
-- [@durgesh-kolhe](https://github.com/Durgesh240)
+- [@shubham-more]([(https://github.com/Riahisemah/))
+
 
 ## Acknowledgements
 
@@ -115,6 +111,5 @@
 
 For support, contact
 
-- email: shubhamp1251@gmail.com
-- LinkedIn: [Shubham More](https://www.linkedin.com/in/shubham-more1251/)
+- email: riahisamh817@gmail.com
 "# sign-detection-reeltime" 
